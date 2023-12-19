@@ -1,2 +1,3 @@
 # selenium
 # VisualRegresstionTesting
+# VisualRegression
